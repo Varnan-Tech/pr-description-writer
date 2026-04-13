@@ -1,5 +1,8 @@
 # pr-description-writer
 
+<img width="1280" height="640" alt="pr-description-writer" src="https://github.com/user-attachments/assets/485f5846-b621-40ac-8a99-2b50243fb454" />
+
+
 Read your current git branch diff and generate a complete GitHub pull request description: summary, specific change bullets, and testing steps. Create or update the PR in one step.
 
 ## What It Does
